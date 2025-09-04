@@ -7,6 +7,8 @@ randomMessages = [
     'https://tenor.com/view/horse-you-have-alerted-the-horse-alert-alert-horse-horse-alert-gif-10675569724654458517',
     'https://tenor.com/view/005861-gif-13926462904635032157',
     'https://tenor.com/view/horsepiv-gif-24660548',
+    'https://tenor.com/view/xenoblade-chronicles-xenoblade-horse-spinning-horse-horse-spin-gif-9348955584613652812',
+    ':horse:',
 ];
 
 module.exports = {
