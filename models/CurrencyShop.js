@@ -9,6 +9,6 @@ module.exports = (sequelize, DataTypes) => {
             allowNull: false,
         },
     }, {
-        tiemstamps: false,
+        timestamps: false,
     });
 };
